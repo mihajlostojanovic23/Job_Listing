@@ -1,0 +1,6 @@
+.header {
+    width: 100%;
+    background-image: url('../components/images/bg-header-desktop.svg');
+    height: 10rem;
+    background-color: var(--primary-color);
+}
